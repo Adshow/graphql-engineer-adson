@@ -4,6 +4,7 @@
 
 1. **Clone the repository:**
 git clone git@github.com:Adshow/graphql-engineer-adson.git
+
 cd graphql-engineer-adson
 
 2. **Build the Docker image:**
